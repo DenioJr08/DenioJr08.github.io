@@ -1,0 +1,13 @@
+<div class="post-card">
+  <div class="post-card-badge">{{ include.post.categories | first | capitalize }}</div>
+  {% if include.post.image %}
+    <img src="{{ include.post.image }}" alt="{{ include.post.title }}" class="post-card-image">
+  {% endif %}
+  <div class="post-card-content">
+    <h3><a href="{{ include.post.url }}">{{ include.post.title }}</a></h3>
+    <p>{{ include.post.summary | truncate: 120 }}</p>
+    <div class="post-card-meta">
+      <time>{{ include.post.date | date: '%d/%m/%Y' }}</time>
+    </div>
+  </div>
+</div>

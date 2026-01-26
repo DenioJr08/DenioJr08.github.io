@@ -1,0 +1,53 @@
+---
+layout: default
+---
+
+<section class="hero">
+  <div class="hero-overlay"></div>
+  <div class="hero-content">
+    <h1>CarNews</h1>
+    <p>Notícias, informações e curiosidades do mundo automotivo</p>
+    <div class="hero-links">
+      <a href="/noticias" class="btn">Últimas Notícias</a>
+      <a href="/modelos" class="btn btn-secondary">Modelos</a>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    
+    </div>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="container">
+    <h2>Modelos em Destaque</h2>
+    <div class="posts-grid">
+      {% assign modelos = site.posts | where: "categories", "modelos" | limit: 4 %}
+      {% if modelos.size > 0 %}
+        {% for post in modelos %}
+          {% include post-card.html post=post %}
+        {% endfor %}
+      {% else %}
+        {% assign gerais = site.posts | limit: 4 %}
+        {% for post in gerais %}
+          {% include post-card.html post=post %}
+        {% endfor %}
+      {% endif %}
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    
+    <div class="posts-grid">
+      {% assign curiosidades = site.posts | where: "categories", "curiosidades" | limit: 4 %}
+      {% for post in curiosidades %}
+        {% include post-card.html post=post %}
+      {% endfor %}
+    </div>
+  </div>
+</section>

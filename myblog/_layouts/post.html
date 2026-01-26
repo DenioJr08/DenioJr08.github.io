@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<article class="post">
+  <header class="post-header">
+    {% if page.image %}
+      <div class="post-image">
+        <img src="{{ page.image }}" alt="{{ page.title }}">
+      </div>
+    {% endif %}
+    <h1>{{ page.title }}</h1>
+    <div class="post-meta">
+      <time>{{ page.date | date: '%d/%m/%Y' }}</time>
+      {% if page.author %}
+        <span>Por {{ site.data.authors[page.author].name }}</span>
+      {% endif %}
+      <span>Categoria: {{ page.categories | join: ', ' }}</span>
+    </div>
+  </header>
+  <div class="post-content">
+    {{ content }}
+  </div>
+  {% assign relacionados = site.posts | where: "categories", page.categories | sample: 3 %}
+  {% if relacionados.size > 0 %}
+    <aside class="related-posts">
+      <h3>Leia Também</h3>
+      <div class="related-grid">
+        {% for post in relacionados %}
+          {% include post-card.html post=post %}
+        {% endfor %}
+      </div>
+    </aside>
+  {% endif %}
+</article>
