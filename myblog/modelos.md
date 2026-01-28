@@ -3,7 +3,8 @@ layout: page
 title: Modelos
 permalink: /modelos/
 ---
- Bem-vindo à seção de Modelos do CarNews! Aqui, você encontrará informações atualizadas sobre os modelos de carros mais novos e os mais vendidos no Brasil, categorizados por tipo: hatch, SUV, sedan e pick-up. Os dados são baseados em vendas recentes (até janeiro de 2026), de acordo com fontes como Fenabrave e Anfavea. Lembre-se de que as vendas podem variar por região e condições de mercado.
+
+Bem-vindo à seção de Modelos do CarNews! Aqui, você encontrará informações atualizadas sobre os modelos de carros mais novos e os mais vendidos no Brasil, categorizados por tipo: hatch, SUV, sedan e pick-up. Os dados são baseados em vendas recentes (até janeiro de 2026), de acordo com fontes como Fenabrave e Anfavea. Lembre-se de que as vendas podem variar por região e condições de mercado.
 
 # Modelos de Carros Mais Vendidos no Brasil
 
@@ -14,6 +15,9 @@ Os hatches compactos continuam sendo uma escolha popular no Brasil devido à pra
 - **Hyundai HB20**: Confortável e com boas opções de conectividade.
 - **Chevrolet Onix**: Acessível e com versões hatchback.
 
+![Volkswagen Polo]({{ '/assets/images/polo.png' | relative_url }})
+{: width="300px" style="display: block; margin: 20px 0;"}
+
 ## SUV
 
 Os SUVs têm visto um boom no Brasil, com foco em espaço e tecnologia. Os mais vendidos são:
@@ -22,6 +26,10 @@ Os SUVs têm visto um boom no Brasil, com foco em espaço e tecnologia. Os mais 
 - **Hyundai Creta**: Espaçoso e com motorização híbrida disponível.
 - **Nissan Kicks**: Estilo jovem e bom custo-benefício.
 
+![Jeep Compass]({{ '/assets/images/compass.jpeg' | relative_url }})
+{: width="300px" style="display: block; margin: 20px 0;"}
+
+
 ## Sedan
 
 Os sedans oferecem conforto para viagens longas. Os líderes em vendas:
@@ -29,8 +37,11 @@ Os sedans oferecem conforto para viagens longas. Os líderes em vendas:
 - **Honda Civic**: Esportivo e eficiente, com motor turbo.
 - **Volkswagen Virtus**: Baseado no Polo, com bom espaço interno.
 - **Chevrolet Cruze**: Opção acessível com bom desempenho.
+ 
+![Toyota Corolla]({{ '/assets/images/corolla.jpeg' | relative_url }})
+{: width="200px" style="display: block; margin: 20px 0;"}
 
-## Pick-up
+## Pick-Up
 
 As pick-ups são essenciais para trabalho e lazer. As mais vendidas:
 - **Toyota Hilux**: Durabilidade lendária, líder absoluta.
@@ -38,6 +49,7 @@ As pick-ups são essenciais para trabalho e lazer. As mais vendidas:
 - **Ford Ranger**: Forte em vendas, com boas opções de motor.
 - **Volkswagen Amarok**: Robusta e com tração 4x4.
 
-
+![Toyota Hilux]({{ '/assets/images/hilux.jpeg' | relative_url }})
+{: width="200px" style="display: block; margin: 20px 0;"}
 
 Para modelos mais novos, destacamos lançamentos recentes como o Volkswagen Polo 2024, Jeep Compass 2025 e Toyota Hilux 2026. Sempre verifique as especificações atualizadas e preços com concessionárias. Se você tem dúvidas sobre algum modelo, deixe um comentário!

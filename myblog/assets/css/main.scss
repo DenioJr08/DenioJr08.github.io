@@ -323,6 +323,17 @@ body {
     p {
       margin-bottom: 1rem;
     }
+
+    .model-image {
+      width: 100%;
+      max-width: 500px;
+      height: auto;
+      border-radius: 10px;
+      border: 1px solid $border;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+      margin: 1rem auto;
+      display: block;
+    }
   }
 }
 
@@ -401,4 +412,36 @@ body {
   .model-row img{
     height: 200px;
   }
+}
+
+/* Estilo para as imagens dentro de ".modelos" */
+.modelos img {
+  width: 100%;             /* A largura vai se ajustar ao contêiner */
+  height: auto;            /* A altura será ajustada automaticamente para manter a proporção */
+  max-width: 100%;         /* Garante que a imagem não ultrapasse a largura do seu contêiner */
+  border-radius: 8px;      /* Suaviza as bordas da imagem */
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1); /* Sombra suave para destacar */
+  margin-top: 10px;        /* Espaço acima da imagem */
+  object-fit: cover;       /* Faz com que a imagem ocupe completamente o espaço disponível sem distorcer */
+}
+
+/* Se você quiser que as imagens fiquem abertas em telas maiores, use esse estilo */
+@media screen and (min-width: 768px) {
+  .modelos img {
+    width: auto;           /* Retira o limite de 100% de largura */
+    max-width: 100%;       /* Garante que não ultrapasse a largura do contêiner */
+    height: 300px;         /* Ajuste da altura para se alinhar ao layout */
+    object-fit: contain;   /* Ajusta a imagem dentro do seu contêiner sem distorção */
+  }
+}
+
+a:hover {
+    color: #ff4500; /* Troca a cor do link */
+    transform: scale(1.2); /* Aumenta o tamanho */
+}
+.polo-img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-top: 20px;
 }

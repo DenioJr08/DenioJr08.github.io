@@ -1,6 +1,5 @@
 title: "CarNews"
 description: "Notícias, informações e curiosidades do mundo automotivo."
-# theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -12,3 +11,5 @@ header_pages:
   - modelos.md
   - curiosidades.md
   - about.md
+
+  

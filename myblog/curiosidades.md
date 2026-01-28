@@ -8,10 +8,7 @@ permalink: /curiosidades/
 
 Explore fatos fascinantes, histórias e curiosidades sobre o mundo dos carros.
 
-{% assign curiosidades = site.posts | where: "categories", "curiosidades" %}
-{% for post in curiosidades %}
-  {% include post-card.html post=post %}
-{% endfor %}
+## Carros Mais Vendidos no Mercado de Zero Km (Novos)
 No Brasil, os modelos mais vendidos em zero km refletem preferências por praticidade e custo-benefício. Os tops incluem:
 - **Volkswagen Polo**: Líder absoluto, com vendas impulsionadas por design moderno e eficiência.
 - **Fiat Argo**: Versátil e acessível, forte em vendas de hatches.
