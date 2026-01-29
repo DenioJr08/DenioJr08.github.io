@@ -15,7 +15,7 @@ Os hatches compactos continuam sendo uma escolha popular no Brasil devido à pra
 - **Hyundai HB20**: Confortável e com boas opções de conectividade.
 - **Chevrolet Onix**: Acessível e com versões hatchback.
 
-![Volkswagen Polo]({{ '/assets/images/polo.png' | relative_url }})
+![Volkswagen Polo]({{ '/assets/images/polo.webp' | relative_url }})
 {: width="300px" style="display: block; margin: 20px 0;"}
 
 ## SUV
@@ -26,7 +26,7 @@ Os SUVs têm visto um boom no Brasil, com foco em espaço e tecnologia. Os mais 
 - **Hyundai Creta**: Espaçoso e com motorização híbrida disponível.
 - **Nissan Kicks**: Estilo jovem e bom custo-benefício.
 
-![Jeep Compass]({{ '/assets/images/compass.jpeg' | relative_url }})
+![Jeep Compass]({{ '/assets/images/compass.webp' | relative_url }})
 {: width="300px" style="display: block; margin: 20px 0;"}
 
 
