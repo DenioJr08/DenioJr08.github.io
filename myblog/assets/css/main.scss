@@ -51,7 +51,7 @@ body {
   }
 
   .logo a {
-    font-size: 1.8rem;
+    font-size: 2.5rem;
     font-weight: bold;
     color: $accent;
     text-decoration: none;
@@ -136,7 +136,8 @@ body {
   transition: background 0.3s;
 
   &:hover {
-    background: $accent-hover;
+    background: $accent;
+    color: white;
   }
 
   &.btn-secondary {
@@ -444,4 +445,172 @@ a:hover {
   height: auto;
   display: block;
   margin-top: 20px;
+}
+
+/* Mantém " Últimas Notícias " branco em qualquer estado */
+.latest-news h2 {
+  color: #fff !important;
+  transition: all 0.3s ease;
+}
+.latest-news:hover h2 {
+  color: #fff !important;
+}
+/* ===== POST CARDS (NOTÍCIAS) ===== */
+
+.posts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+}
+
+/* Card principal */
+.post-card {
+  position: relative;
+  background: #111;
+  border-radius: 14px;
+  padding: 1.5rem;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.35);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  overflow: hidden;
+}
+
+/* Hover elegante */
+.post-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.6);
+}
+
+/* Badge (Notícias) */
+.post-card-badge {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  background: #e10600;
+  color: #fff;
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 6px 12px;
+  border-radius: 20px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Conteúdo */
+.post-card-content h3 {
+  margin-top: 1.8rem;
+  font-size: 1.2rem;
+  color: #fff;
+}
+
+.post-card-content p {
+  color: #bbb;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin: 0.5rem 0 1rem;
+}
+
+/* Meta (data, autor, etc) */
+.post-card-meta {
+  font-size: 0.8rem;
+  color: #888;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  padding-top: 0.8rem;
+}
+/* ===== BOTÕES / LINKS DO HEADER ===== */
+
+.site-nav a,
+.header-nav a,
+nav a {
+  position: relative;
+  display: inline-block;
+  padding: 0.4rem 0.6rem;
+  color: #e5e5e5;
+  text-decoration: none;
+  font-weight: 500;
+
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease,
+    color 0.25s ease;
+}
+
+/* Hover elegante */
+.site-nav a:hover,
+.header-nav a:hover,
+nav a:hover {
+  transform: translateY(-3px);
+  color: #ff3b3b;
+  box-shadow: 0 8px 18px rgba(255, 59, 59, 0.25);
+}
+
+/* Linha inferior animada */
+.site-nav a::after,
+.header-nav a::after,
+nav a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -6px;
+  width: 0;
+  height: 2px;
+  background: #ff3b3b;
+  transition: width 0.3s ease;
+}
+
+.site-nav a:hover::after,
+.header-nav a:hover::after,
+nav a:hover::after {
+  width: 100%;
+}
+
+/* Remove efeitos exagerados em mobile */
+@media (max-width: 768px) {
+  .site-nav a:hover,
+  .header-nav a:hover,
+  nav a:hover {
+    transform: none;
+    box-shadow: none;
+  }
+}
+/* ===== LOGO CARNEWS ===== */
+
+.site-title,
+.logo,
+.header-logo {
+  display: inline-block;
+  font-weight: 700;
+  color: #ff3b3b;
+  text-decoration: none;
+
+  transition:
+    transform 0.25s ease,
+    text-shadow 0.25s ease,
+    filter 0.25s ease;
+}
+
+/* Hover do logo */
+.site-title:hover,
+.logo:hover,
+.header-logo:hover {
+  transform: translateY(-3px);
+  text-shadow: 0 6px 18px rgba(255, 59, 59, 0.6);
+  filter: brightness(1.1);
+}
+
+/* Evita exagero no mobile */
+@media (max-width: 768px) {
+  .site-title:hover,
+  .logo:hover,
+  .header-logo:hover {
+    transform: none;
+    text-shadow: none;
+    filter: none;
+  }
+}
+.site-title:active,
+.logo:active,
+.header-logo:active{
+  transform: translateY(0);
+  text-shadow: 0 3px 8px rgba(255, 59, 59, 0.4);
+  filter: brightness(0.95);
 }
