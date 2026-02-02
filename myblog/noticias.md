@@ -16,20 +16,19 @@ Com o ano de 2026 já se iniciando, as montadoras estão preparando diversos lan
 ### **Volkswagen Polo 2026**  
 A Volkswagen já anunciou que o **Polo 2026** virá com um design mais moderno, incluindo motorização híbrida, o que promete fazer uma diferença significativa no consumo de combustível. As versões do modelo também contarão com novos recursos de conectividade, incluindo integração com aplicativos de carros autônomos, o que traz uma nova experiência para os motoristas.
 
-![Volkswagen Polo]({{ '/assets/images/polo26.webp' | relative_url }})
-{: width="300px" style="display: block; margin: 20px 0;"}
+[![Volkswagen Polo](/assets/images/polo26.webp)](https://www.vw.com.br/pt/carros/polo.html)
 
 ### **Jeep Compass 2026**  
 O **Compass 2026** será mais tecnológico, com tração 4x4 de série, design mais robusto e novas opções de motorização elétrica, alinhando-se com as tendências sustentáveis. A Jeep está investindo em inovações para manter o Compass competitivo em um mercado crescente de SUVs compactos e médios.
 
-![Volkswagen Polo]({{ '/assets/images/compass26.png' | relative_url }})
-{: width="300px" style="display: block; margin: 20px 0;"}
+
+[![Jeep Compass](/assets/images/compass26.png)](https://www.jeep.com.br/compass.html)
 
 ### **Honda Civic 2026**  
 O **Honda Civic 2026** terá uma versão esportiva ainda mais equipada, incluindo motor turboalimentado e suspensão adaptativa, com destaque para os novos sistemas de direção assistida. As atualizações visam proporcionar mais conforto e desempenho ao dirigir.
 
-![Volkswagen Polo]({{ '/assets/images/civic26.png' | relative_url }})
-{: width="300px" style="display: block; margin: 20px 0;"}
+
+[![Honda Civic](/assets/images/civic26.png)](https://www.honda.com.br/automoveis/civic)
 
 ---
 

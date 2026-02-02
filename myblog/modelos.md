@@ -41,6 +41,7 @@ Os sedans oferecem conforto para viagens longas. Os líderes em vendas:
 ![Toyota Corolla]({{ '/assets/images/corolla.jpeg' | relative_url }})
 {: width="200px" style="display: block; margin: 20px 0;"}
 
+
 ## Pick-Up
 
 As pick-ups são essenciais para trabalho e lazer. As mais vendidas:
