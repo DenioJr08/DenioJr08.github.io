@@ -79,7 +79,7 @@ Importância do estepe, macaco e chave de roda
 - Verifique regularmente o macaco e a chave de roda; garanta que o macaco suporte o peso do veículo.
 - Ter ferramentas adicionais (luvas, lanterna, triângulo, compressor portátil) aumenta segurança e autonomia.
 
-![Pneu e Segurança]({{ '/assets/images/calibragem.webp' | relative_url }})
+![Pneu e Segurança]({{ '/assets/images/calibragem2.webp' | relative_url }})
 {: width="200px" style="display: block; margin: 20px 0;"}
 
 🧼 Limpeza e Estética do Veículo
@@ -113,7 +113,9 @@ Cuidados com estofados de couro ou tecido
 - Couro: use produtos específicos e condicionadores para evitar ressecamento e rachaduras.
 - Tecido: remover manchas rapidamente com produtos para estofados; teste em área discreta antes.
 
-![Limpeza e Estética automotiva]({{ '/assets/images/lavagem.webp' | relative_url }})
+- [Aqui está um site onde você encontrará ótimos produtos para fazer a limpeza do seu carro!](https://www.vonixx.com.br/)
+
+![Limpeza e Estética automotiva]({{ '/assets/images/lavagem2.png' | relative_url }})
 {: width="200px" style="display: block; margin: 20px 0;"}
 
 🧽 Cuidados Higiênicos e Conforto
@@ -158,7 +160,7 @@ Cuidados com a bateria do carro
 - Bateria costuma durar 3–5 anos; faça teste de carga e substitua preventivamente se instável.
 - Evite deixar acessórios ligados com o motor desligado por longos períodos.
 
-![Cuidados Mecânicos Importantes]({{ '/assets/images/mecanica.webp' | relative_url }})
+![Cuidados Mecânicos Importantes]({{ '/assets/images/manutencao.webp' | relative_url }})
 {: width="200px" style="display: block; margin: 20px 0;"}
 
 📅 Rotina de Verificação

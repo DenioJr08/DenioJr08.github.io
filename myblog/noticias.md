@@ -46,14 +46,14 @@ Com o aumento nos custos de produção e nas inovações tecnológicas, os preç
 
 Além de novos lançamentos, muitos carros passaram por mudanças significativas em comparação aos modelos do ano anterior. O **Chevrolet Onix**, por exemplo, recebeu uma atualização no design e agora conta com motor 1.0 turbo em todas as versões, aumentando a eficiência do combustível sem comprometer o desempenho.
 
-![Chevrolet Onix]({{ '/assets/images/onix26.png' | relative_url }})
+![Chevrolet Onix]({{ '/assets/images/onix2.jpg' | relative_url }})
 {: width="300px" style="display: block; margin: 20px 0;"}
 
 A **Toyota Hilux 2026**, por sua vez, também passará a contar com novas opções de motorização híbrida, o que promete maior economia e menor emissão de gases poluentes, uma tendência crescente entre as montadoras.
 
 Essas atualizações mostram a constante evolução dos modelos, com o foco em sustentabilidade, tecnologia e inovação, além de garantir maior segurança e conforto aos motoristas e passageiros.
 
-![Toyota Hilux]({{ '/assets/images/hilux.jpeg' | relative_url }})
+![Toyota Hilux]({{ '/assets/images/hilux2.png' | relative_url }})
 {: width="300px" style="display: block; margin: 20px 0;"}
 
 ---

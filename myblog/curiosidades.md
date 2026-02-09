@@ -25,7 +25,7 @@ O mercado de usados é dominado por modelos antigos e confiáveis. Os mais procu
 - **Chevrolet Celta**: Acessível e resistente, favorito em regiões do interior.
 - **Ford Fiesta**: Prático e com bom custo-benefício.
 
-![Volkswagen Gol]({{ '/assets/images/gol.webp' | relative_url }})
+![Volkswagen Gol]({{ '/assets/images/gol2.jpg' | relative_url }})
 {: width="200px" style="display: block; margin: 20px 0;"}
 
 ## Carros Mais Econômicos do Brasil
@@ -35,7 +35,7 @@ Focando em consumo de combustível (cidade/estrada), os mais econômicos são:
 - **Volkswagen Up!**: Compacto e econômico, bom para trajetos curtos.
 - **Hyundai HB20**: Com motorização flex, eficiência em torno de 13-14 km/l.
 
-![Volkswagen Up!]({{ '/assets/images/up.webp' | relative_url }})
+![Volkswagen Up!]({{ '/assets/images/up2.jpg' | relative_url }})
 {: width="500px" style="display: block; margin: 20px 0;"}
 
 ## Carros Mais Rápidos
