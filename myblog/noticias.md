@@ -36,9 +36,9 @@ O **Honda Civic 2026** terá uma versão esportiva ainda mais equipada, incluind
 
 Com o aumento nos custos de produção e nas inovações tecnológicas, os preços dos carros também estão passando por ajustes. Confira a previsão de preços para alguns modelos:
 
-- **Volkswagen Polo 2026**: A versão mais básica do modelo deverá custar cerca de **R$ 70.000**, enquanto as versões mais completas devem ultrapassar **R$ 100.000**.
-- **Jeep Compass 2026**: O novo Compass deverá começar em **R$ 130.000**, com a versão mais equipada chegando a **R$ 160.000**.
-- **Honda Civic 2026**: O Civic 2026 terá um preço inicial de **R$ 110.000** e pode chegar a **R$ 150.000** nas versões mais sofisticadas.
+- **Volkswagen Polo 2026**: A versão mais básica do modelo deverá custar cerca de **R$ 95.000**, enquanto as versões mais completas devem ultrapassar **R$ 130.000**.
+- **Jeep Compass 2026**: O novo Compass deverá começar em **R$ 170.000**, com a versão mais equipada chegando a **R$ 275.000**.
+- **Honda Civic 2026**: O Civic 2026 terá um preço inicial de **R$ 260.000** e pode chegar a **R$ 430.000** nas versões mais esportivas.
 
 ---
 

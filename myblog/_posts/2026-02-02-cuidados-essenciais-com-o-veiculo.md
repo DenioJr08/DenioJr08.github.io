@@ -79,6 +79,8 @@ Importância do estepe, macaco e chave de roda
 - Verifique regularmente o macaco e a chave de roda; garanta que o macaco suporte o peso do veículo.
 - Ter ferramentas adicionais (luvas, lanterna, triângulo, compressor portátil) aumenta segurança e autonomia.
 
+- [Aqui está um vídeo que te ensina a trocar o pneu do seu carro!](https://www.youtube.com/watch?v=x0byqTuIKZI&t=7s)
+
 ![Pneu e Segurança]({{ '/assets/images/calibragem2.webp' | relative_url }})
 {: width="200px" style="display: block; margin: 20px 0;"}
 
@@ -180,6 +182,8 @@ Verificação de faróis, lanternas e setas
 Conferência de documentos obrigatórios do veículo
 - Mantenha sempre no veículo: documento do carro (CRLV digital ou impresso), CNH, comprovante de seguro (quando aplicável) e documentos de inspeção se exigidos.
 - Atualize vencimentos e mantenha cópias digitais, se possível.
+
+- [Aqui está um vídeo com dicas e informações sobre a rotina de verificação com seu veículo!](https://www.youtube.com/watch?v=aTiXwMhh3oA)
 
 ![Checklist]({{ '/assets/images/checklist.webp' | relative_url }})
 {: width="200px" style="display: block; margin: 20px 0;"}

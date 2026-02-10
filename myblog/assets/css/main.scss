@@ -19,6 +19,7 @@ $max-width: 1100px;
   margin: 0;
   padding: 0;
 }
+// Fontes
 @import
 url('https://fonts.googleapis.com/css2?family=Merriweather:wght@500;600;700&display=swap');
 body {
@@ -148,7 +149,7 @@ h1, h2, h3 {
 
   &:hover {
     background: $accent;
-    color: white;
+    color: rgb(196, 14, 14);
   }
 
   &.btn-secondary {
@@ -633,4 +634,4 @@ a {
 a:hover {
   color: #ff8c1a;
   text-decoration: underline;
-}
+} 
