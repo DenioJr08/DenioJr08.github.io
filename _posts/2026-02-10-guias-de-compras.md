@@ -4,6 +4,7 @@ title: "Guia de Compra: Melhores opções de usados"
 date: 2026-02-09 17:30:00 -0300
 categories: ["Guias de Compra"]
 tags: [dicas, usados, iniciante, economia]
+image: /assets/images/guiadecompra.jpeg
 ---
 
 Comprar o primeiro carro ou um carro novo é um momento emocionante, mas que exige cuidado. Com um orçamento de até R$ 40 mil em 2026, é possível encontrar modelos robustos, econômicos e com manutenção barata.

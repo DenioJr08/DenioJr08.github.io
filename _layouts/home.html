@@ -2,42 +2,64 @@
 layout: default
 ---
 
-<section class="hero">
-  <div class="hero-overlay"></div>
-  <div class="hero-content">
-    <h1>CarNews</h1>
-    <p>Notícias, informações e curiosidades do mundo automotivo</p>
-    <div class="hero-links">
-      <a href="/noticias" class="btn">Últimas Notícias</a>
-      <a href="/modelos" class="btn btn-secondary">Modelos</a>
+{% assign destaque = site.posts.first %}
+
+<section class="hero-featured" style="background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.8)), url('{{ destaque.image | relative_url }}');">
+  <div class="container">
+    <div class="hero-content-dynamic">
+      
+      <span class="hero-tag">Destaque do Dia</span>
+      
+      <h1>
+        <a href="{{ destaque.url | relative_url }}">{{ destaque.title }}</a>
+      </h1>
+      
+      <p>{{ destaque.excerpt | strip_html | truncatewords: 20 }}...</p>
+      
+      <a href="{{ destaque.url | relative_url }}" class="btn-hero">Ler Matéria Completa</a>
+      
     </div>
   </div>
 </section>
 
 <section class="section">
   <div class="container">
+    <h2 style="margin-bottom: 30px; font-family: 'Montserrat', sans-serif; color: #FF5722;">Últimas Notícias</h2>
     
-    </div>
-  </div>
-</section>
-
-<section class="section section-alt">
-  <div class="container">
-    <h2>Modelos em Destaque</h2>
     <div class="posts-grid">
-      {% assign modelos = site.posts | where: "categories", "modelos" | limit: 4 %}
-      {% if modelos.size > 0 %}
-        {% for post in modelos %}
-          {% include post-card.html post=post %}
-        {% endfor %}
-      {% else %}
-        {% assign gerais = site.posts | limit: 4 %}
-        {% for post in gerais %}
-          {% include post-card.html post=post %}
-        {% endfor %}
-      {% endif %}
+      {% for post in site.posts offset:1 %}
+        <div class="post-card">
+          
+          <a href="{{ post.url | relative_url }}">
+            {% if post.image %}
+              <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="post-card-image">
+            {% else %}
+              <img src="/assets/images/logocarnews2.jpeg" alt="CarNews" class="post-card-image">
+            {% endif %}
+          </a>
+
+          <div class="post-card-content">
+            <span class="post-meta" style="color: #888; font-size: 0.8rem;">
+              {{ post.date | date: "%d/%m/%Y" }}
+            </span>
+            
+            <h3 style="margin: 10px 0;">
+              <a class="post-link" href="{{ post.url | relative_url }}" style="text-decoration: none; color: #fff;">
+                {{ post.title }}
+              </a>
+            </h3>
+            
+            <p style="font-size: 0.9rem; color: #ccc;">
+              {{ post.excerpt | strip_html | truncatewords: 15 }}...
+            </p>
+            
+            <a href="{{ post.url | relative_url }}" class="read-more-btn">Ler mais</a>
+          </div>
+
+        </div>
+      {% endfor %}
     </div>
-  </div>
+    </div>
 </section>
 
 <section class="section">

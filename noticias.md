@@ -11,7 +11,7 @@ permalink: /noticias/
 
 ## Lançamentos de Carros para 2026
 
-Com o ano de 2026 já se iniciando, as montadoras estão preparando diversos lançamentos de carros para o mercado. Abaixo, confira os modelos que prometem agitar o setor automotivo nos próximos meses:
+> Com o ano de 2026 já se iniciando, as montadoras estão preparando diversos lançamentos de carros para o mercado. Abaixo, confira os modelos que prometem agitar o setor automotivo nos próximos meses:
 
 ### **Volkswagen Polo 2026**  
 A Volkswagen já anunciou que o **Polo 2026** virá com um design mais moderno, incluindo motorização híbrida, o que promete fazer uma diferença significativa no consumo de combustível. As versões do modelo também contarão com novos recursos de conectividade, incluindo integração com aplicativos de carros autônomos, o que traz uma nova experiência para os motoristas.
@@ -58,8 +58,8 @@ Essas atualizações mostram a constante evolução dos modelos, com o foco em s
 
 ---
 
-Fique atento às novidades, pois a cada ano surgem mais opções e melhorias para o mercado automotivo, e 2026 promete ser um ano repleto de inovações!
+> Fique atento às novidades, pois a cada ano surgem mais opções e melhorias para o mercado automotivo, e 2026 promete ser um ano repleto de inovações!
 
 ---
 
-**Fonte**: As informações sobre os lançamentos e preços são baseadas em anúncios feitos pelas montadoras e estimativas do mercado automotivo para 2026.
+> **Fonte**: As informações sobre os lançamentos e preços são baseadas em anúncios feitos pelas montadoras e estimativas do mercado automotivo para 2026.

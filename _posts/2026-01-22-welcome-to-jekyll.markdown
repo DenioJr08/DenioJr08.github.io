@@ -2,7 +2,8 @@
 layout: post
 title:  "Bem-vindo ao CarNews!"
 date:   2026-01-22 11:35:36 -0300
-categories: carros novidades
+categories: ["Boas Vindas"]
+image: /assets/images/bemvindos.jpeg
 ---
 Bem-vindo ao CarNews, o seu portal dedicado ao universo automotivo. Aqui, celebramos a paixão pelos carros, trazendo conteúdos que combinam performance, inovação e movimento para manter você sempre conectado às novidades do setor.
 

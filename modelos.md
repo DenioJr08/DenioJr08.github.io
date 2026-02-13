@@ -4,7 +4,7 @@ title: Modelos
 permalink: /modelos/
 ---
 
-Bem-vindo à seção de Modelos do CarNews! Aqui, você encontrará informações atualizadas sobre os modelos de carros mais novos e os mais vendidos no Brasil, categorizados por tipo: hatch, SUV, sedan e pick-up. Os dados são baseados em vendas recentes (até janeiro de 2026), de acordo com fontes como Fenabrave e Anfavea. Lembre-se de que as vendas podem variar por região e condições de mercado.
+> Bem-vindo à seção de Modelos do CarNews! Aqui, você encontrará informações atualizadas sobre os modelos de carros mais novos e os mais vendidos no Brasil, categorizados por tipo: hatch, SUV, sedan e pick-up. Os dados são baseados em vendas recentes (até janeiro de 2026), de acordo com fontes como Fenabrave e Anfavea. Lembre-se de que as vendas podem variar por região e condições de mercado.
 
 # Modelos de Carros Mais Vendidos no Brasil
 
@@ -53,4 +53,4 @@ As pick-ups são essenciais para trabalho e lazer. As mais vendidas:
 ![Toyota Hilux]({{ '/assets/images/hilux2.png' | relative_url }})
 {: width="200px" style="display: block; margin: 20px 0;"}
 
-Para modelos mais novos, destacamos lançamentos recentes como o Volkswagen Polo 2024, Jeep Compass 2025 e Toyota Hilux 2026. Sempre verifique as especificações atualizadas e preços com concessionárias. Se você tem dúvidas sobre algum modelo, deixe um comentário!
+> Para modelos mais novos, destacamos lançamentos recentes como o Volkswagen Polo 2024, Jeep Compass 2025 e Toyota Hilux 2026. Sempre verifique as especificações atualizadas e preços com concessionárias. Se você tem dúvidas sobre algum modelo, deixe um comentário!

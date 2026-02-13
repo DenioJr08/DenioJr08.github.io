@@ -5,6 +5,7 @@ date: 2026-02-10 08:00:00 -0300
 categories: ["Dicas e Manutenção"]
 tags: [motor, dicas, economia, manutenção, mito ou verdade]
 description: "Muitos motoristas ainda têm o hábito de ligar o carro e esperar esquentar. Mas será que nos carros modernos isso ainda é necessário? Descubra agora."
+image: /assets/images/dicasemanutencao.jpg
 ---
 
 **Você provavelmente já viu seu pai ou avô ligando o carro de manhã e esperando alguns minutos "para o motor esquentar" antes de sair da garagem. Mas será que, com a tecnologia dos carros atuais, esse hábito ainda é necessário ou é apenas desperdício de combustível?**

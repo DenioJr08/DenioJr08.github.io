@@ -6,7 +6,7 @@ permalink: /curiosidades/
 
 
 
-Explore fatos fascinantes, histórias e curiosidades sobre o mundo dos carros.
+> Explore fatos fascinantes, histórias e curiosidades sobre o mundo dos carros.
 
 ## Carros Mais Vendidos no Mercado de Zero Km (Novos)
 No Brasil, os modelos mais vendidos em zero km refletem preferências por praticidade e custo-benefício. Os tops incluem:
@@ -58,4 +58,4 @@ Segundo testes como Latin NCAP, os mais seguros incluem:
 ![Honda Civic]({{ '/assets/images/civic.webp' | relative_url }})
 {: width="200px" style="display: block; margin: 20px 0;"}
 
-Outras curiosidades: O carro mais vendido do mundo é o Toyota Corolla, com milhões de unidades. No Brasil, o Volkswagen Fusca foi o primeiro carro popular. Fique ligado para mais fatos divertidos!
+> Outras curiosidades: O carro mais vendido do mundo é o Toyota Corolla, com milhões de unidades. No Brasil, o Volkswagen Fusca foi o primeiro carro popular. Fique ligado para mais fatos divertidos!

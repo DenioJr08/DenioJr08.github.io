@@ -2,8 +2,9 @@
 layout: post
 title: "Cuidados essenciais que todo motorista deve ter com seu veículo"
 date: 2026-02-02
-categories: cuidados, manutenção
+categories: ["cuidados e manutenção"]
 tags: [manutenção, pneus, segurança, higiene, dicas]
+image: /assets/images/lavagem2.png
 ---
 
 Introdução

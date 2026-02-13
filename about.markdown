@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Bem-vindo ao CarNews
 
-O CarNews é o seu portal dedicado ao universo dos automóveis. Aqui, reunimos informações atualizadas, análises aprofundadas e curiosidades fascinantes sobre carros, sempre com o objetivo de informar e entreter quem ama o mundo das quatro rodas.
+> O CarNews é o seu portal dedicado ao universo dos automóveis. Aqui, reunimos informações atualizadas, análises aprofundadas e curiosidades fascinantes sobre carros, sempre com o objetivo de informar e entreter quem ama o mundo das quatro rodas.
 
 ## Nosso Propósito
 
@@ -32,4 +32,4 @@ Oferecemos guias práticos, dicas de manutenção e informações educativas par
 
 Valorizamos a clareza, a precisão e a acessibilidade. Cada artigo é escrito de forma objetiva, com linguagem direta e sem jargões desnecessários. Nosso design limpo e moderno facilita a navegação, permitindo que você encontre rapidamente o que procura.
 
-Obrigado por visitar o CarNews. Esperamos que nossas publicações enriqueçam sua paixão por automóveis!
+> Obrigado por visitar o CarNews. Esperamos que nossas publicações enriqueçam sua paixão por automóveis!
